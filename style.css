@@ -90,7 +90,7 @@ body {
 
 .conteudo-principal-escrito-botao:hover {
     background-color: rgba(236, 214, 196, 0.53);
-    transition: background 1s;
+    transition: background 0,2s;
 }
 
 .foto-apresentação {

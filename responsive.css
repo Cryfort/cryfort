@@ -1,0 +1,47 @@
+@media (max-width: 1180px) {
+    body {
+        background: linear-gradient(68.15deg, #878383 16.62%, #131211 85.61%);
+    }
+
+    .cabecalho {
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+        gap: 10px;
+    }
+
+    .foto-apresentação {
+        display: none;
+    }
+    
+    .conteudo-principal-escrito-titulo {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .conteudo-principal-escrito-subtitulo {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .conteudo-principal-escrito-botao {
+        width: auto;
+    }
+
+    .conteudo-secundario-titulo {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .conteudo-secundario-paragrafo {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;       
+    }
+    .rodape-imagem {
+        justify-content: center;
+        text-align: center;
+    }
+}
